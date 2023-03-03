@@ -1,4 +1,4 @@
-import "./style.css" ;
+import "./style.css";
 
 const Form = () => (
 
@@ -8,4 +8,4 @@ const Form = () => (
     </form>
 );
 
-export default Form ;
+export default Form;
