@@ -3,7 +3,7 @@
 A simple list of tasks to perform with new features .
 
 ## Demo
- [here](https://gmsandrzej.github.io/08_TodoListReact/).
+ [here](https://gmsandrzej.github.io/08_ToDoListReact/).
 
 ## Description
 A simple list of tasks to perform using Java Script  use of new immutability techniques and smooth transitions .
